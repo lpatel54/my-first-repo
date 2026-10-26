@@ -18,3 +18,5 @@ This is a new line
 another line
 
 this is a new feature
+
+another change on our new feature branch
